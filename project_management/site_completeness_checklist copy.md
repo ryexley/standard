@@ -47,6 +47,7 @@ based
 * [ ] page titles appropriate and SEO
 * [ ] imgs with alt text
 * [ ] img title attributes appropriate and SEO
+* [ ] [open graph image][open_graph] (and any other appropriate info)
 
 ### Markup/CSS/JS Related
 
@@ -193,3 +194,6 @@ galleries such as:
 mediaqueri.es
 http://www.mobileawesomeness.com/
 http://creattica.com/
+
+
+[open_graph]: http://ogp.me/
