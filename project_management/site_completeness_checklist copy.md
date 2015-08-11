@@ -111,6 +111,7 @@ Devices
 ## Launch Checklist
 
 
+* [ ] SSL all the things, including http -> https in redirect
 * [ ] allow indexing
 * [ ] Markup/CSS/JS Related
 * [ ] include google analytics (proper UA string)
