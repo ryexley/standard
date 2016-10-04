@@ -6,13 +6,18 @@
 
 * [ ] Dev site disallows indexing
 * [ ] Other item
-* [ ] all states of navigation/buttons (active, hover, inactive, etc)
+* [ ] All states of navigation/buttons (active, hover, inactive, etc)
 * [ ] dropdown menus
 * [ ] pagination
 * [ ] headline styles that work when very long (wrap to multiple lines)
 * [ ] Purchase CMS license (if applicable)
 * [ ] Transition/Purchase Font accounts in Customer Specific Account
 
+### DevOps
+
+* [ ] Record Deployments using a service like [Rollbar]
+* [ ] Capture and Monitor ongoing performance using a service like [NewRelic]
+* [ ] Assure log rolling is in place using a utility like [LogRotate]
 
 ### Design
 
@@ -154,3 +159,8 @@ galleries such as:
 mediaqueri.es
 http://www.mobileawesomeness.com/
 http://creattica.com/
+
+
+[Rollbar]: https://rollbar.com
+[NewRelic]: https://newrelic.com
+[LogRotate]: https://support.rackspace.com/how-to/understanding-logrotate-utility/
