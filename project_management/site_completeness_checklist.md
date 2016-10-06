@@ -13,7 +13,7 @@
 
 * [ ] Record Deployments using a service like [Rollbar]
 * [ ] Capture and Monitor ongoing performance using a service like [NewRelic]
-* [ ] Assure log rolling is in place using a utility like [LogRotate]
+* [ ] Assure log rotation is in place using a utility like [LogRotate]
 * [ ] Require SSL
 
 ### Design
