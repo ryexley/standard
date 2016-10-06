@@ -1,16 +1,12 @@
 # Site Completeness Checklist
 
----
-
 ## Early Dev Checklist 
 
-* [ ] Dev site disallows indexing
-* [ ] Other item
+* [ ] Preproduction sites disallows indexing & require authentication
 * [ ] All states of navigation/buttons (active, hover, inactive, etc)
-* [ ] dropdown menus
-* [ ] pagination
-* [ ] headline styles that work when very long (wrap to multiple lines)
-* [ ] Purchase CMS license (if applicable)
+* [ ] Dropdown menus
+* [ ] Pagination
+* [ ] Purchase CMS license, if applicable
 * [ ] Transition/Purchase Font accounts in Customer Specific Account
 
 ### DevOps
@@ -18,6 +14,7 @@
 * [ ] Record Deployments using a service like [Rollbar]
 * [ ] Capture and Monitor ongoing performance using a service like [NewRelic]
 * [ ] Assure log rolling is in place using a utility like [LogRotate]
+* [ ] Require SSL
 
 ### Design
 
@@ -98,7 +95,6 @@ Devices
 * [ ] Get client’s social share ID’s.
 * [ ] Get client’s social pages.
 
----
 
 ## Launch Checklist
 
@@ -130,7 +126,7 @@ After we launch a site, this is the procedure that we will follow. We
 will wait approximately 14 days to allow for last minute changes,
 bugs, etc.
 
-* [ ] send thank you note after final payment is received and remind of
+* [ ] Send thank you note after final payment is received and remind of
     30-day support timeframe
 * [ ] Send documentation to client. (Check that code is commented well,
     send plugin list, any live or documented training)
@@ -138,29 +134,13 @@ bugs, etc.
 
 ### Marketing
 
-* [ ] Submit to Galleries
 * [ ] Add to seesparkbox.com work section
 * [ ] Blog about launch
 * [ ] Tweet from @hearsparkbox
-* [ ] Request client quote/recommendation (if appropriate).
-
-### Gallery Submittal:
-
-1. [ ] We do a “normal submission” on www.awwwards.com because
-it is well respected and well screened
-http://www.awwwards.com/submit
-for around $21
-
-2. [ ] Then we use http://thecssgallerylist.com/ for sheer volume to
-submit to 100 other sites (hitting many popular ones) for $20.
-
-3. [ ] Then we hand-submit the site to a few other purposeful (but free)
-galleries such as:
-mediaqueri.es
-http://www.mobileawesomeness.com/
-http://creattica.com/
+* [ ] Request client quote/recommendation, if appropriate.
 
 
 [Rollbar]: https://rollbar.com
 [NewRelic]: https://newrelic.com
 [LogRotate]: https://support.rackspace.com/how-to/understanding-logrotate-utility/
+
