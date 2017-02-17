@@ -1,4 +1,12 @@
 ##Project Management
+****Drew and I wrote this for Web Standards Sherpa. We could tweak a bit and add to standard...
+
+Be Willing to Adjust Course and Revisit Scope
+Remember to be humble and adjust as you need to. Budget, timeline and personalities might force you to change course or tools during discovery. That’s okay — it’s honestly the point of this project stage. Having a toolkit and project plan to pull from is great, but you will still have to make it up as you go in order to serve your client well. And don’t be afraid when you spot something that needs to change as you navigate the project. New discoveries are not bad things.
+
+Corrections should be a welcomed sign that you are visiting the right places, and getting honest feedback and details to improve the project. Don’t hide them out of embarrassment that you weren’t able to predict the future (or read the collective mind of your client’s organization). State the facts and make your case for a project shift. Good clients crave partners who legitimately have their best interest in mind — not just “yes men.”
+
+Being rigid to an initial plan will hurt you. Because even a successfully executed project can become a business failure if it only achieves the goals of an out-of-date and less-informed hypothesis.****
 Just like our dev efforts, everything is in [constant flux to best serve our clients](http://webstandardssherpa.com/reviews/responsive-discovery/) around here. Many of us adore  [ZenHub](https://www.zenhub.io/) or [Trello](https://trello.com/). And we make [Jira](https://www.atlassian.com/software/) work when needed. :) 
 
 We dig using the right tools for each project, which often includes [Basecamp](https://basecamp.com/) (for project updates, discussions, and file sharing) and [InVision](https://www.invisionapp.com/) (for design collaboration).
