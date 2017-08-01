@@ -7,5 +7,6 @@
 
 ## Editors
 * **[Emacs](emacs)**
+* **[Atom](atom)**
 * **[Vim](vim)**
 * **[Sublime](sublime)**
