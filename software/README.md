@@ -1,9 +1,11 @@
-Software
-========
+# Software
 
 * **[SSH](ssh)**
-* **[Vim](vim)**
 * **[Pow](pow)**
-* **[Sublime](sublime)**
 * **[Capistrano](capistrano)**
 * **[Expression Engine](expression_engine)**
+
+## Editors
+* **[Emacs](emacs)**
+* **[Vim](vim)**
+* **[Sublime](sublime)**
